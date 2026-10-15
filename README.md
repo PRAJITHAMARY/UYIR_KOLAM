@@ -8,7 +8,11 @@ Every Line Brings a Little Life
 
 An Interactive Digital Garden Inspired by Traditional Indian Kolam
 
-🌐 **Live Production URL**: [https://uyir-kolam.vercel.app](https://uyir-kolam.vercel.app)
+<p align="center">
+  <a href="https://uyir-kolam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌿%20LIVE%20PROJECT-Explore%20Uyir%20Kolam-FFD982?style=for-the-badge&labelColor=061D17&color=FFD982" alt="Live Uyir Kolam Project" />
+  </a>
+</p>
 
 ---
 
