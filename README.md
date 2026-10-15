@@ -14,7 +14,7 @@ An Interactive Digital Garden Inspired by Traditional Indian Kolam
   </a>
 </p>
 </div>
----
+
 
 ## 1. Project Concept & Creative Vision
 
