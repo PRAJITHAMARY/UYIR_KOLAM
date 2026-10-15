@@ -3,6 +3,8 @@
 
 An interactive digital garden inspired by the Indian dawn ritual of Kolam, created for the **DJXHack Residency 2026** challenge: **Everyday Magic**.
 
+🌐 **Live Production URL**: [https://uyir-kolam.vercel.app](https://uyir-kolam.vercel.app)
+
 ---
 
 ## 1. Project Concept & Creative Vision
