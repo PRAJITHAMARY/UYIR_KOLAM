@@ -13,7 +13,7 @@ An Interactive Digital Garden Inspired by Traditional Indian Kolam
     <img src="https://img.shields.io/badge/🌿%20LIVE%20PROJECT-Explore%20Uyir%20Kolam-FFD982?style=for-the-badge&labelColor=061D17&color=FFD982" alt="Live Uyir Kolam Project" />
   </a>
 </p>
-
+</div>
 ---
 
 ## 1. Project Concept & Creative Vision
