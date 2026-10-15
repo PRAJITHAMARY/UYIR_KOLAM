@@ -1,7 +1,12 @@
-# UYIR KOLAM (உயிர் கோலம்)
-### *Every Line Brings a Little Life*
+<div align="center">
 
-An interactive digital garden inspired by the Indian dawn ritual of Kolam, created for the **DJXHack Residency 2026** challenge: **Everyday Magic**.
+🌿 UYIR KOLAM (உயிர் கோலம்)
+
+Every Line Brings a Little Life
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=3000&pause=900&color=E8C66A&center=true&vCenter=true&width=650&lines=Every+Line+Brings+a+Little+Life;Where+Tradition+Meets+Technology;Draw.+Create.+Bloom." alt="Animated Uyir Kolam heading" />
+
+An Interactive Digital Garden Inspired by Traditional Indian Kolam
 
 🌐 **Live Production URL**: [https://uyir-kolam.vercel.app](https://uyir-kolam.vercel.app)
 
@@ -166,3 +171,5 @@ npm run preview
    Using an overhead lightweight computer-vision model (e.g. MediaPipe / OpenCV) to track traditional rice powder being sprinkled by human hands onto the real ground, dynamically mapping digital vines and flowers over real rice flour in real time.
 3. **Community Sanctuary Mode (Festival of Margazhi)**:
    A collaborative multi-device canvas allowing neighborhood families to draw interconnected kolams during the morning Margazhi festival, uniting doorsteps into a shared digital forest.
+
+
